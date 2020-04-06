@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Debug","order":1,"parentId":0,"scrollX":652.6666666666666,"scrollY":433.3333333333333},
+{"id":2,"expanded":true,"name":"To Do","order":2,"parentId":0,"scrollX":652.6666666666666,"scrollY":433.3333333333333},
+{"id":3,"expanded":false,"name":"Work in Progress","order":3,"parentId":0,"scrollX":657.3333333333334,"scrollY":426},
+{"id":4,"expanded":false,"name":"Finished","order":4,"parentId":0,"scrollX":657.3333333333334,"scrollY":426},
+{"id":5,"expanded":false,"name":"Cutscenes","order":5,"parentId":0,"scrollX":657.3333333333334,"scrollY":426}
+]
