@@ -1,7 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"Package_04_Dilara","characterIndex":5,"characterName":"Package1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"pake06_Dilara01","traits":[],"initialLevel":1,"maxLevel":99,"name":"PlaceHolder","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"","characterIndex":7,"characterName":"","classId":2,"equips":[2,1,2,3,0],"faceIndex":7,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"","characterIndex":7,"characterName":"","classId":3,"equips":[3,0,2,3,4],"faceIndex":7,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"","characterIndex":6,"characterName":"","classId":4,"equips":[4,0,2,3,4],"faceIndex":6,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Package_04_Dilara","characterIndex":5,"characterName":"Package1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"pake06_Dilara01","traits":[],"initialLevel":1,"maxLevel":99,"name":"PlaceHolder","nickname":"","note":"","profile":""}
 ]
