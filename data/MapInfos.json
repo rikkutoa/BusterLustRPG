@@ -13,7 +13,7 @@ null,
 {"id":11,"expanded":false,"name":"Skill Tree debug","order":6,"parentId":1,"scrollX":985,"scrollY":650},
 {"id":12,"expanded":false,"name":"World map 1","order":13,"parentId":3,"scrollX":2103.5,"scrollY":1670},
 {"id":13,"expanded":false,"name":"World Map 2 ","order":14,"parentId":3,"scrollX":1345.5,"scrollY":2173},
-{"id":14,"expanded":false,"name":"School","order":9,"parentId":2,"scrollX":0,"scrollY":0},
-{"id":15,"expanded":false,"name":"School 1st floor","order":10,"parentId":14,"scrollX":576,"scrollY":373.8},
+{"id":14,"expanded":true,"name":"School","order":9,"parentId":2,"scrollX":500.5,"scrollY":325},
+{"id":15,"expanded":false,"name":"School 1st floor","order":10,"parentId":14,"scrollX":576.5,"scrollY":374},
 {"id":16,"expanded":false,"name":"Intro","order":11,"parentId":2,"scrollX":488,"scrollY":319.5}
 ]
