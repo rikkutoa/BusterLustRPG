@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"DEBUG","order":1,"parentId":0,"scrollX":354,"scrollY":331.6666666666667},
+{"id":1,"expanded":true,"name":"DEBUG","order":1,"parentId":0,"scrollX":796.5,"scrollY":367.5},
 {"id":2,"expanded":true,"name":"Mine Debug","order":2,"parentId":1,"scrollX":531,"scrollY":325.5},
 {"id":3,"expanded":false,"name":"Outside Mine","order":3,"parentId":2,"scrollX":0,"scrollY":0},
 {"id":4,"expanded":false,"name":"SKill tree debug","order":5,"parentId":1,"scrollX":531,"scrollY":281},
